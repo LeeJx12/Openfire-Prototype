@@ -1,0 +1,32 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>Client</title>
+</head>
+<body>
+	<div style="width: 400px; height: calc(100% - 40px); border: 1px solid black; margin: 20px;">
+		<div style="border-bottom: 1px solid black; margin: 20px; padding: 10px;">
+			<span style="font-size: 20;">Client</span>
+			<br>
+			<br>
+			<div id="loginWrap">
+				<input type="text" style="width: 120px;" id="id" name="id" placeholder="아이디"/>
+				<input type="text" style="width: 120px;" id="passwd" name="passwd" placeholder="비밀번호"/>
+				<button type="button" id="login" name="login" onClick="login()" >로그인</button>
+			</div>
+		</div>
+		<div id="msgList"></div>
+		<div style="position: absolute; width: 360px; height: 44px; bottom: 20px; left: 30px; border-top: 1px solid black; padding: 20px;">
+			<input type="text" style="width: 300px;" id="msg" name="msg" placeholder="메세지를 입력하세요."/>
+			<button type="button" id="send" name="send" onClick="sendMsg()" >전송</button>
+		</div>
+	</div>
+<script src="js/client.js"></script>
+<script
+  src="https://cdnjs.cloudflare.com/ajax/libs/strophe.js/1.2.16/strophe.min.js"
+  crossorigin
+></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+</body>
+</html>
+

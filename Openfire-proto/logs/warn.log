@@ -1,0 +1,1100 @@
+2020.12.22 11:01:52 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console: CertificateStoreManager has not been initialized yet. HTTPS will be unavailable.
+2020.12.22 11:07:25 org.jivesoftware.openfire.container.AdminConsolePlugin - Admin console: CertificateStoreManager has not been initialized yet. HTTPS will be unavailable.
+2020.12.22 11:07:27 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 11:07:31 org.jivesoftware.database.SequenceManager - Autocreating jiveID row for type '25'
+2020.12.22 11:07:34 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 11:07:34 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 11:56:15 org.jivesoftware.util.cache.CacheFactory - CacheFactory - Unable to find a Plugin that provides clustering support.
+2020.12.22 11:56:15 org.jivesoftware.util.cache.CacheFactory - Clustered cache factory strategy org.jivesoftware.openfire.plugin.util.cache.ClusteredCacheFactory not found
+2020.12.22 12:29:59 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 12:30:02 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 12:30:02 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 13:21:27 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 13:22:01 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 13:22:01 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 13:38:58 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 13:39:36 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 13:39:36 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 13:46:10 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 13:48:13 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 13:50:50 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 13:51:52 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 13:51:54 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 13:51:54 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 13:56:03 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 13:56:06 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 13:56:06 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 13:56:32 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 13:56:34 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 13:56:34 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:01:24 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 14:01:26 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:01:26 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:01:37 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 14:01:40 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:01:40 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:02:40 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 14:03:23 org.eclipse.jetty.webapp.WebAppContext - Failed startup of context o.e.j.w.WebAppContext@10b31fbb{Openfire,/,file:///C:/development/prototype/Openfire-proto/plugins/client/webapp/,UNAVAILABLE}{C:\development\prototype\Openfire-proto\plugins\client\webapp}
+java.lang.IllegalStateException: No filter named LocaleFilter
+	at org.eclipse.jetty.servlet.ServletHandler.updateMappings(ServletHandler.java:1348) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doStart(ServletHandler.java:169) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:72) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:169) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:110) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.AbstractHandler.doStart(AbstractHandler.java:97) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.security.SecurityHandler.doStart(SecurityHandler.java:417) ~[jetty-security-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.security.ConstraintSecurityHandler.doStart(ConstraintSecurityHandler.java:419) ~[jetty-security-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:72) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:169) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:110) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.AbstractHandler.doStart(AbstractHandler.java:97) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.doStart(ScopedHandler.java:120) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doStart(SessionHandler.java:504) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:72) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:169) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:110) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.AbstractHandler.doStart(AbstractHandler.java:97) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.doStart(ScopedHandler.java:120) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.startContext(ContextHandler.java:915) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletContextHandler.startContext(ServletContextHandler.java:356) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.webapp.WebAppContext.startWebapp(WebAppContext.java:1445) ~[jetty-webapp-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1409) ~[jetty-webapp-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doStart(ContextHandler.java:855) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletContextHandler.doStart(ServletContextHandler.java:275) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.webapp.WebAppContext.doStart(WebAppContext.java:524) [jetty-webapp-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:72) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:169) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:117) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.AbstractHandler.doStart(AbstractHandler.java:97) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:72) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:169) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:117) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.AbstractHandler.doStart(AbstractHandler.java:97) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:72) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:169) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.start(Server.java:408) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:110) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.AbstractHandler.doStart(AbstractHandler.java:97) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.doStart(Server.java:372) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:72) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.jivesoftware.openfire.container.ClientPlugin.startup(ClientPlugin.java:163) [target/:?]
+	at org.jivesoftware.openfire.container.ClientPlugin.initializePlugin(ClientPlugin.java:340) [target/:?]
+	at org.jivesoftware.openfire.container.PluginManager.loadPlugin(PluginManager.java:683) [target/:?]
+	at org.jivesoftware.openfire.container.PluginMonitor$MonitorTask$4.call(PluginMonitor.java:375) [target/:?]
+	at org.jivesoftware.openfire.container.PluginMonitor$MonitorTask$4.call(PluginMonitor.java:1) [target/:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_222-2-ojdkbuild]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_222-2-ojdkbuild]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_222-2-ojdkbuild]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222-2-ojdkbuild]
+2020.12.22 14:03:23 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:03:23 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:10:32 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 14:10:36 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:10:36 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:12:36 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 14:12:40 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:12:40 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:35:28 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 14:35:32 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:35:32 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:37:49 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 14:37:53 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:37:53 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:38:57 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 14:39:01 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:39:01 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:44:06 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 14:44:10 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:44:10 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:46:22 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 14:46:26 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:46:26 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:47:48 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 14:47:51 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:47:51 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:48:38 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 14:48:42 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:48:42 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:51:21 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 14:51:25 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:51:25 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:53:29 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 14:53:32 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:53:32 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:54:17 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 14:54:20 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:54:20 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:54:52 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 14:54:56 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:54:56 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:58:48 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 14:58:52 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 14:58:52 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 15:29:38 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 15:29:42 org.eclipse.jetty.servlet.BaseHolder - 
+java.lang.ClassNotFoundException: org.jivesoftware.servlet.ClientServlet
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382) ~[?:1.8.0_222-2-ojdkbuild]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_222-2-ojdkbuild]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_222-2-ojdkbuild]
+	at org.eclipse.jetty.webapp.WebAppClassLoader.loadClass(WebAppClassLoader.java:543) ~[jetty-webapp-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_222-2-ojdkbuild]
+	at org.eclipse.jetty.util.Loader.loadClass(Loader.java:64) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.BaseHolder.doStart(BaseHolder.java:88) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHolder.doStart(ServletHolder.java:361) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:72) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.lambda$initialize$0(ServletHandler.java:766) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.util.stream.SortedOps$SizedRefSortingSink.end(SortedOps.java:357) [?:1.8.0_222-2-ojdkbuild]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:483) [?:1.8.0_222-2-ojdkbuild]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472) [?:1.8.0_222-2-ojdkbuild]
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:313) [?:1.8.0_222-2-ojdkbuild]
+	at java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:743) [?:1.8.0_222-2-ojdkbuild]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:647) [?:1.8.0_222-2-ojdkbuild]
+	at org.eclipse.jetty.servlet.ServletHandler.initialize(ServletHandler.java:791) [jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletContextHandler.startContext(ServletContextHandler.java:360) [jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.webapp.WebAppContext.startWebapp(WebAppContext.java:1445) [jetty-webapp-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1409) [jetty-webapp-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doStart(ContextHandler.java:855) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletContextHandler.doStart(ServletContextHandler.java:275) [jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.webapp.WebAppContext.doStart(WebAppContext.java:524) [jetty-webapp-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:72) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:169) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:117) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.AbstractHandler.doStart(AbstractHandler.java:97) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:72) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:169) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:117) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.AbstractHandler.doStart(AbstractHandler.java:97) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:72) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:169) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.start(Server.java:408) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:110) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.AbstractHandler.doStart(AbstractHandler.java:97) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.doStart(Server.java:372) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:72) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.jivesoftware.openfire.container.ClientPlugin.startup(ClientPlugin.java:163) [target/:?]
+	at org.jivesoftware.openfire.container.ClientPlugin.initializePlugin(ClientPlugin.java:340) [target/:?]
+	at org.jivesoftware.openfire.container.PluginManager.loadPlugin(PluginManager.java:683) [target/:?]
+	at org.jivesoftware.openfire.container.PluginMonitor$MonitorTask$4.call(PluginMonitor.java:375) [target/:?]
+	at org.jivesoftware.openfire.container.PluginMonitor$MonitorTask$4.call(PluginMonitor.java:1) [target/:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_222-2-ojdkbuild]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_222-2-ojdkbuild]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_222-2-ojdkbuild]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222-2-ojdkbuild]
+2020.12.22 15:29:42 org.eclipse.jetty.webapp.WebAppContext - Failed startup of context o.e.j.w.WebAppContext@9219099{Client,/,file:///C:/development/prototype/Openfire-proto/plugins/client/webapp/,UNAVAILABLE}{C:\development\prototype\Openfire-proto\plugins\client\webapp}
+javax.servlet.UnavailableException: Class loading error for holder ClientServlet@beefdbda==org.jivesoftware.servlet.ClientServlet,jsp=null,order=-1,inst=false,async=false
+	at org.eclipse.jetty.servlet.BaseHolder.doStart(BaseHolder.java:95) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHolder.doStart(ServletHolder.java:361) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:72) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.lambda$initialize$0(ServletHandler.java:766) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.util.stream.SortedOps$SizedRefSortingSink.end(SortedOps.java:357) ~[?:1.8.0_222-2-ojdkbuild]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:483) ~[?:1.8.0_222-2-ojdkbuild]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472) ~[?:1.8.0_222-2-ojdkbuild]
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:313) ~[?:1.8.0_222-2-ojdkbuild]
+	at java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:743) ~[?:1.8.0_222-2-ojdkbuild]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:647) ~[?:1.8.0_222-2-ojdkbuild]
+	at org.eclipse.jetty.servlet.ServletHandler.initialize(ServletHandler.java:791) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletContextHandler.startContext(ServletContextHandler.java:360) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.webapp.WebAppContext.startWebapp(WebAppContext.java:1445) ~[jetty-webapp-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1409) ~[jetty-webapp-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doStart(ContextHandler.java:855) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletContextHandler.doStart(ServletContextHandler.java:275) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.webapp.WebAppContext.doStart(WebAppContext.java:524) [jetty-webapp-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:72) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:169) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:117) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.AbstractHandler.doStart(AbstractHandler.java:97) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:72) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:169) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:117) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.AbstractHandler.doStart(AbstractHandler.java:97) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:72) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:169) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.start(Server.java:408) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:110) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.AbstractHandler.doStart(AbstractHandler.java:97) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.doStart(Server.java:372) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:72) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.jivesoftware.openfire.container.ClientPlugin.startup(ClientPlugin.java:163) [target/:?]
+	at org.jivesoftware.openfire.container.ClientPlugin.initializePlugin(ClientPlugin.java:340) [target/:?]
+	at org.jivesoftware.openfire.container.PluginManager.loadPlugin(PluginManager.java:683) [target/:?]
+	at org.jivesoftware.openfire.container.PluginMonitor$MonitorTask$4.call(PluginMonitor.java:375) [target/:?]
+	at org.jivesoftware.openfire.container.PluginMonitor$MonitorTask$4.call(PluginMonitor.java:1) [target/:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_222-2-ojdkbuild]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_222-2-ojdkbuild]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_222-2-ojdkbuild]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222-2-ojdkbuild]
+2020.12.22 15:29:42 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 15:29:42 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 15:30:19 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 15:30:23 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 15:30:23 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 15:35:20 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 15:35:23 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 15:35:23 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 15:36:40 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 15:36:44 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 15:36:44 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 15:38:13 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 15:38:16 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 15:38:16 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 16:05:51 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 16:05:55 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 16:05:55 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 16:07:35 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 16:07:39 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 16:07:39 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 16:11:25 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 16:11:29 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 16:11:29 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 16:12:50 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 16:12:54 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 16:12:54 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 16:14:12 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 16:14:16 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 16:14:16 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 16:22:38 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 16:22:41 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 16:22:41 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 16:23:57 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 16:24:00 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 16:24:00 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 16:29:23 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 16:29:26 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 16:29:26 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 16:32:49 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.22 16:32:53 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.22 16:32:53 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 08:42:21 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 08:42:25 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 08:42:25 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 08:58:00 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 08:58:04 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 08:58:04 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 09:03:57 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 09:04:01 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 09:04:01 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 09:25:21 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 09:25:24 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 09:25:24 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 09:26:21 org.eclipse.jetty.server.HttpChannel - /ClientServlet
+java.lang.ExceptionInInitializerError: null
+	at org.jivesoftware.smack.Smack.getVersion(Smack.java:36) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.Smack.ensureInitialized(Smack.java:50) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.ConnectionConfiguration.<clinit>(ConnectionConfiguration.java:115) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.client.ClientServlet.doPost(ClientServlet.java:33) ~[target/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:763) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:569) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:143) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:602) ~[jetty-security-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1610) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1377) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:507) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1580) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1292) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:191) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:146) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222-2-ojdkbuild]
+Caused by: java.lang.IllegalStateException: Could not parse Smack configuration file
+	at org.jivesoftware.smack.SmackInitialization.<clinit>(SmackInitialization.java:106) ~[smack-core-4.4.0.jar:4.4.0]
+	... 35 more
+Caused by: java.lang.IllegalStateException: No XmlPullParserFactory registered with Service Provider Interface (SPI). Is smack-xmlparser-xpp3 or smack-xmlparser-stax in classpath?
+	at org.jivesoftware.smack.xml.SmackXmlParser.getXmlPullParserFactory(SmackXmlParser.java:34) ~[smack-xmlparser-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.xml.SmackXmlParser.newXmlParser(SmackXmlParser.java:54) ~[smack-xmlparser-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.util.PacketParserUtils.getParserFor(PacketParserUtils.java:80) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.processConfigFile(SmackInitialization.java:159) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.processConfigFile(SmackInitialization.java:154) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.<clinit>(SmackInitialization.java:103) ~[smack-core-4.4.0.jar:4.4.0]
+	... 35 more
+2020.12.23 09:40:24 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 09:40:28 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 09:40:28 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 09:49:39 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 09:49:43 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 09:49:43 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 09:50:27 org.eclipse.jetty.server.HttpChannel - /ClientServlet
+java.lang.ExceptionInInitializerError: null
+	at org.jivesoftware.smack.Smack.getVersion(Smack.java:36) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.Smack.ensureInitialized(Smack.java:50) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.ConnectionConfiguration.<clinit>(ConnectionConfiguration.java:115) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.client.ClientServlet.doPost(ClientServlet.java:45) ~[target/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:763) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:569) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:143) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:602) ~[jetty-security-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1610) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1377) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:507) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1580) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1292) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:191) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:146) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:375) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222-2-ojdkbuild]
+Caused by: java.lang.IllegalStateException: Could not parse Smack configuration file
+	at org.jivesoftware.smack.SmackInitialization.<clinit>(SmackInitialization.java:106) ~[smack-core-4.4.0.jar:4.4.0]
+	... 40 more
+Caused by: java.lang.IllegalStateException: No XmlPullParserFactory registered with Service Provider Interface (SPI). Is smack-xmlparser-xpp3 or smack-xmlparser-stax in classpath?
+	at org.jivesoftware.smack.xml.SmackXmlParser.getXmlPullParserFactory(SmackXmlParser.java:34) ~[smack-xmlparser-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.xml.SmackXmlParser.newXmlParser(SmackXmlParser.java:54) ~[smack-xmlparser-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.util.PacketParserUtils.getParserFor(PacketParserUtils.java:80) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.processConfigFile(SmackInitialization.java:159) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.processConfigFile(SmackInitialization.java:154) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.<clinit>(SmackInitialization.java:103) ~[smack-core-4.4.0.jar:4.4.0]
+	... 40 more
+2020.12.23 09:51:20 org.eclipse.jetty.server.HttpChannel - /ClientServlet
+java.lang.NoClassDefFoundError: Could not initialize class org.jivesoftware.smack.tcp.XMPPTCPConnectionConfiguration
+	at org.jivesoftware.client.ClientServlet.doPost(ClientServlet.java:45) ~[target/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:763) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:569) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:143) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:602) ~[jetty-security-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1610) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1377) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:507) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1580) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1292) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:191) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:146) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.produce(EatWhatYouKill.java:135) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222-2-ojdkbuild]
+2020.12.23 09:59:08 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 09:59:12 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 09:59:12 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 10:01:38 org.eclipse.jetty.server.HttpChannel - /ClientServlet
+java.lang.ExceptionInInitializerError: null
+	at org.jivesoftware.smack.Smack.getVersion(Smack.java:36) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.Smack.ensureInitialized(Smack.java:50) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.ConnectionConfiguration.<clinit>(ConnectionConfiguration.java:115) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.client.ClientServlet.doPost(ClientServlet.java:45) ~[target/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:763) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:569) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:143) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:602) ~[jetty-security-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1610) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1377) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:507) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1580) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1292) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:191) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:146) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222-2-ojdkbuild]
+Caused by: java.lang.IllegalStateException: Could not parse Smack configuration file
+	at org.jivesoftware.smack.SmackInitialization.<clinit>(SmackInitialization.java:106) ~[smack-core-4.4.0.jar:4.4.0]
+	... 35 more
+Caused by: java.lang.IllegalStateException: No XmlPullParserFactory registered with Service Provider Interface (SPI). Is smack-xmlparser-xpp3 or smack-xmlparser-stax in classpath?
+	at org.jivesoftware.smack.xml.SmackXmlParser.getXmlPullParserFactory(SmackXmlParser.java:34) ~[smack-xmlparser-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.xml.SmackXmlParser.newXmlParser(SmackXmlParser.java:54) ~[smack-xmlparser-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.util.PacketParserUtils.getParserFor(PacketParserUtils.java:80) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.processConfigFile(SmackInitialization.java:159) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.processConfigFile(SmackInitialization.java:154) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.<clinit>(SmackInitialization.java:103) ~[smack-core-4.4.0.jar:4.4.0]
+	... 35 more
+2020.12.23 10:01:44 org.eclipse.jetty.server.HttpChannel - /ClientServlet
+java.lang.NoClassDefFoundError: Could not initialize class org.jivesoftware.smack.tcp.XMPPTCPConnectionConfiguration
+	at org.jivesoftware.client.ClientServlet.doPost(ClientServlet.java:45) ~[target/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:763) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:569) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:143) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:602) ~[jetty-security-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1610) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1377) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:507) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1580) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1292) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:191) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:146) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.produce(EatWhatYouKill.java:135) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222-2-ojdkbuild]
+2020.12.23 10:03:50 org.eclipse.jetty.server.HttpChannel - /ClientServlet
+java.lang.NoClassDefFoundError: Could not initialize class org.jivesoftware.smack.tcp.XMPPTCPConnectionConfiguration
+	at org.jivesoftware.client.ClientServlet.doPost(ClientServlet.java:45) ~[target/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:763) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:569) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:143) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:602) ~[jetty-security-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1610) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1377) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:507) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1580) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1292) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:191) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:146) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) ~[jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.produce(EatWhatYouKill.java:135) ~[jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222-2-ojdkbuild]
+2020.12.23 10:07:06 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 10:07:09 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 10:07:09 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 10:08:36 org.eclipse.jetty.server.HttpChannel - /ClientServlet
+java.lang.ExceptionInInitializerError: null
+	at org.jivesoftware.smack.Smack.getVersion(Smack.java:36) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.Smack.ensureInitialized(Smack.java:50) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.ConnectionConfiguration.<clinit>(ConnectionConfiguration.java:115) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.client.ClientServlet.doPost(ClientServlet.java:45) ~[target/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:763) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:569) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:143) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:602) ~[jetty-security-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1610) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1377) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:507) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1580) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1292) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:191) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:146) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:375) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222-2-ojdkbuild]
+Caused by: java.lang.IllegalStateException: Could not parse Smack configuration file
+	at org.jivesoftware.smack.SmackInitialization.<clinit>(SmackInitialization.java:106) ~[smack-core-4.4.0.jar:4.4.0]
+	... 40 more
+Caused by: java.lang.IllegalStateException: No XmlPullParserFactory registered with Service Provider Interface (SPI). Is smack-xmlparser-xpp3 or smack-xmlparser-stax in classpath?
+	at org.jivesoftware.smack.xml.SmackXmlParser.getXmlPullParserFactory(SmackXmlParser.java:34) ~[smack-xmlparser-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.xml.SmackXmlParser.newXmlParser(SmackXmlParser.java:54) ~[smack-xmlparser-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.util.PacketParserUtils.getParserFor(PacketParserUtils.java:80) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.processConfigFile(SmackInitialization.java:159) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.processConfigFile(SmackInitialization.java:154) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.<clinit>(SmackInitialization.java:103) ~[smack-core-4.4.0.jar:4.4.0]
+	... 40 more
+2020.12.23 10:21:04 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 10:21:08 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 10:21:08 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 10:21:27 org.eclipse.jetty.server.HttpChannel - /ClientServlet
+java.lang.ExceptionInInitializerError: null
+	at org.jivesoftware.smack.Smack.getVersion(Smack.java:36) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.Smack.ensureInitialized(Smack.java:50) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.ConnectionConfiguration.<clinit>(ConnectionConfiguration.java:115) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.client.ClientServlet.doPost(ClientServlet.java:45) ~[target/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:763) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:569) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:143) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:602) ~[jetty-security-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1610) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1377) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:507) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1580) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1292) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:191) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:146) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:375) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_271]
+Caused by: java.lang.IllegalStateException: Could not parse Smack configuration file
+	at org.jivesoftware.smack.SmackInitialization.<clinit>(SmackInitialization.java:106) ~[smack-core-4.4.0.jar:4.4.0]
+	... 40 more
+Caused by: java.lang.IllegalStateException: No XmlPullParserFactory registered with Service Provider Interface (SPI). Is smack-xmlparser-xpp3 or smack-xmlparser-stax in classpath?
+	at org.jivesoftware.smack.xml.SmackXmlParser.getXmlPullParserFactory(SmackXmlParser.java:34) ~[smack-xmlparser-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.xml.SmackXmlParser.newXmlParser(SmackXmlParser.java:54) ~[smack-xmlparser-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.util.PacketParserUtils.getParserFor(PacketParserUtils.java:80) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.processConfigFile(SmackInitialization.java:159) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.processConfigFile(SmackInitialization.java:154) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.<clinit>(SmackInitialization.java:103) ~[smack-core-4.4.0.jar:4.4.0]
+	... 40 more
+2020.12.23 10:28:35 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 10:28:39 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 10:28:39 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 10:29:00 org.eclipse.jetty.server.HttpChannel - /ClientServlet
+java.lang.ExceptionInInitializerError: null
+	at org.jivesoftware.smack.Smack.getVersion(Smack.java:36) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.Smack.ensureInitialized(Smack.java:50) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.ConnectionConfiguration.<clinit>(ConnectionConfiguration.java:115) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.client.ClientServlet.doPost(ClientServlet.java:45) ~[target/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:763) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:569) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:143) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:602) ~[jetty-security-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1610) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1377) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:507) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1580) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1292) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:191) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:146) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:375) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_271]
+Caused by: java.lang.IllegalStateException: Could not parse Smack configuration file
+	at org.jivesoftware.smack.SmackInitialization.<clinit>(SmackInitialization.java:106) ~[smack-core-4.4.0.jar:4.4.0]
+	... 40 more
+Caused by: java.lang.IllegalStateException: No XmlPullParserFactory registered with Service Provider Interface (SPI). Is smack-xmlparser-xpp3 or smack-xmlparser-stax in classpath?
+	at org.jivesoftware.smack.xml.SmackXmlParser.getXmlPullParserFactory(SmackXmlParser.java:34) ~[smack-xmlparser-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.xml.SmackXmlParser.newXmlParser(SmackXmlParser.java:54) ~[smack-xmlparser-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.util.PacketParserUtils.getParserFor(PacketParserUtils.java:80) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.processConfigFile(SmackInitialization.java:159) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.processConfigFile(SmackInitialization.java:154) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.<clinit>(SmackInitialization.java:103) ~[smack-core-4.4.0.jar:4.4.0]
+	... 40 more
+2020.12.23 10:32:57 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 10:33:01 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 10:33:01 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 10:33:09 org.eclipse.jetty.server.HttpChannel - /ClientServlet
+java.lang.ExceptionInInitializerError: null
+	at org.jivesoftware.smack.Smack.getVersion(Smack.java:36) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.Smack.ensureInitialized(Smack.java:50) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.ConnectionConfiguration.<clinit>(ConnectionConfiguration.java:115) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.client.ClientServlet.doPost(ClientServlet.java:45) ~[target/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:763) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:569) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:143) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:602) ~[jetty-security-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1610) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1377) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:507) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1580) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1292) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:191) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:146) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:375) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_271]
+Caused by: java.lang.IllegalStateException: Could not parse Smack configuration file
+	at org.jivesoftware.smack.SmackInitialization.<clinit>(SmackInitialization.java:106) ~[smack-core-4.4.0.jar:4.4.0]
+	... 40 more
+Caused by: java.lang.IllegalStateException: No XmlPullParserFactory registered with Service Provider Interface (SPI). Is smack-xmlparser-xpp3 or smack-xmlparser-stax in classpath?
+	at org.jivesoftware.smack.xml.SmackXmlParser.getXmlPullParserFactory(SmackXmlParser.java:34) ~[smack-xmlparser-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.xml.SmackXmlParser.newXmlParser(SmackXmlParser.java:54) ~[smack-xmlparser-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.util.PacketParserUtils.getParserFor(PacketParserUtils.java:80) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.processConfigFile(SmackInitialization.java:159) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.processConfigFile(SmackInitialization.java:154) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.<clinit>(SmackInitialization.java:103) ~[smack-core-4.4.0.jar:4.4.0]
+	... 40 more
+2020.12.23 10:42:05 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 10:42:09 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 10:42:09 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 10:42:26 org.eclipse.jetty.server.HttpChannel - /ClientServlet
+java.lang.ExceptionInInitializerError: null
+	at org.jivesoftware.smack.Smack.getVersion(Smack.java:36) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.Smack.ensureInitialized(Smack.java:50) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.ConnectionConfiguration.<clinit>(ConnectionConfiguration.java:115) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.client.ClientServlet.doPost(ClientServlet.java:45) ~[target/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:763) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:569) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:143) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:602) ~[jetty-security-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1610) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1377) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:507) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1580) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1292) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:191) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:146) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_271]
+Caused by: java.lang.IllegalStateException: Could not parse Smack configuration file
+	at org.jivesoftware.smack.SmackInitialization.<clinit>(SmackInitialization.java:106) ~[smack-core-4.4.0.jar:4.4.0]
+	... 35 more
+Caused by: java.lang.IllegalStateException: No XmlPullParserFactory registered with Service Provider Interface (SPI). Is smack-xmlparser-xpp3 or smack-xmlparser-stax in classpath?
+	at org.jivesoftware.smack.xml.SmackXmlParser.getXmlPullParserFactory(SmackXmlParser.java:34) ~[smack-xmlparser-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.xml.SmackXmlParser.newXmlParser(SmackXmlParser.java:54) ~[smack-xmlparser-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.util.PacketParserUtils.getParserFor(PacketParserUtils.java:80) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.processConfigFile(SmackInitialization.java:159) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.processConfigFile(SmackInitialization.java:154) ~[smack-core-4.4.0.jar:4.4.0]
+	at org.jivesoftware.smack.SmackInitialization.<clinit>(SmackInitialization.java:103) ~[smack-core-4.4.0.jar:4.4.0]
+	... 35 more
+2020.12.23 10:42:41 org.eclipse.jetty.server.HttpChannel - /ClientServlet
+java.lang.NoClassDefFoundError: Could not initialize class org.jivesoftware.smack.tcp.XMPPTCPConnectionConfiguration
+	at org.jivesoftware.client.ClientServlet.doPost(ClientServlet.java:45) ~[target/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790) ~[javax.servlet-api-3.1.0.jar:3.1.0]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:763) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:569) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:143) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:602) ~[jetty-security-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1610) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1377) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:507) ~[jetty-servlet-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1580) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1292) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:191) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:146) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.Server.handle(Server.java:501) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:556) ~[jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273) [jetty-server-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104) [jetty-io-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:375) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938) [jetty-util-9.4.31.v20200723.jar:9.4.31.v20200723]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_271]
+2020.12.23 10:44:04 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 10:44:06 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 10:44:06 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 10:47:50 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 10:47:52 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 10:47:52 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 10:50:04 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 10:50:06 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 10:50:06 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 10:59:05 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 10:59:08 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 10:59:08 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 11:00:25 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 11:00:28 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 11:00:28 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 11:05:45 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 11:05:47 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 11:05:47 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 11:10:23 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 11:10:27 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 11:10:27 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 11:11:35 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 11:11:39 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 11:11:39 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 12:00:44 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 12:00:48 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 12:00:48 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 12:02:43 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 12:02:47 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 12:02:47 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 12:06:15 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 12:06:19 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 12:06:19 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 12:10:01 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 12:10:05 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 12:10:05 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 12:10:24 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x00000002: nio socket, server, null => 0.0.0.0/0.0.0.0:5222)
+javax.net.ssl.SSLHandshakeException: SSL handshake failed.
+	at org.apache.mina.filter.ssl.SslFilter.messageReceived(SslFilter.java:536) ~[mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:650) ~[mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1300(DefaultIoFilterChain.java:49) ~[mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:1128) ~[mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.filterchain.IoFilterAdapter.messageReceived(IoFilterAdapter.java:122) ~[mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:650) ~[mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.fireMessageReceived(DefaultIoFilterChain.java:643) ~[mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:539) ~[mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$1200(AbstractPollingIoProcessor.java:68) ~[mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.process(AbstractPollingIoProcessor.java:1222) ~[mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.process(AbstractPollingIoProcessor.java:1211) ~[mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run(AbstractPollingIoProcessor.java:683) ~[mina-core-2.1.3.jar:?]
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64) ~[mina-core-2.1.3.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[?:1.8.0_271]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_271]
+Caused by: javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown
+	at sun.security.ssl.Alert.createSSLException(Alert.java:131) ~[?:1.8.0_271]
+	at sun.security.ssl.Alert.createSSLException(Alert.java:117) ~[?:1.8.0_271]
+	at sun.security.ssl.TransportContext.fatal(TransportContext.java:340) ~[?:1.8.0_271]
+	at sun.security.ssl.Alert$AlertConsumer.consume(Alert.java:293) ~[?:1.8.0_271]
+	at sun.security.ssl.TransportContext.dispatch(TransportContext.java:186) ~[?:1.8.0_271]
+	at sun.security.ssl.SSLTransport.decode(SSLTransport.java:154) ~[?:1.8.0_271]
+	at sun.security.ssl.SSLEngineImpl.decode(SSLEngineImpl.java:590) ~[?:1.8.0_271]
+	at sun.security.ssl.SSLEngineImpl.readRecord(SSLEngineImpl.java:545) ~[?:1.8.0_271]
+	at sun.security.ssl.SSLEngineImpl.unwrap(SSLEngineImpl.java:411) ~[?:1.8.0_271]
+	at sun.security.ssl.SSLEngineImpl.unwrap(SSLEngineImpl.java:390) ~[?:1.8.0_271]
+	at javax.net.ssl.SSLEngine.unwrap(SSLEngine.java:626) ~[?:1.8.0_271]
+	at org.apache.mina.filter.ssl.SslHandler.unwrap(SslHandler.java:774) ~[mina-core-2.1.3.jar:?]
+	at org.apache.mina.filter.ssl.SslHandler.unwrapHandshake(SslHandler.java:710) ~[mina-core-2.1.3.jar:?]
+	at org.apache.mina.filter.ssl.SslHandler.handshake(SslHandler.java:596) ~[mina-core-2.1.3.jar:?]
+	at org.apache.mina.filter.ssl.SslHandler.messageReceived(SslHandler.java:355) ~[mina-core-2.1.3.jar:?]
+	at org.apache.mina.filter.ssl.SslFilter.messageReceived(SslFilter.java:517) ~[mina-core-2.1.3.jar:?]
+	... 15 more
+2020.12.23 12:13:26 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 12:13:30 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 12:13:30 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 12:21:20 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 12:21:24 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 12:21:24 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 12:23:31 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 12:23:35 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 12:23:35 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 12:29:58 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 12:30:02 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 12:30:02 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 12:34:30 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 12:34:34 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 12:34:34 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 13:18:19 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 13:18:23 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 13:18:23 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 13:19:57 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 13:20:00 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 13:20:00 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 13:22:39 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 13:22:43 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 13:22:43 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 13:35:45 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 13:35:48 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 13:35:48 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:05:18 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 14:05:21 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:05:21 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:06:21 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 14:06:25 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:06:25 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:12:31 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 14:12:35 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:12:35 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:13:44 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 14:13:47 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:13:47 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:15:14 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 14:15:18 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:15:18 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:15:47 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 14:15:51 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:15:51 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:18:46 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 14:18:49 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:18:49 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:25:16 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 14:25:20 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:25:20 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:26:30 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 14:26:34 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:26:34 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:36:45 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 14:36:49 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:36:49 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:37:48 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 14:37:52 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:37:52 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:39:18 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 14:39:22 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:39:22 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:48:07 org.jivesoftware.openfire.container.PluginManager - Ignoring plugin 'websocket': compatible with server versions up to but excluding 4.2.0. Current server version is 4.6.1 Alpha.
+2020.12.23 14:48:50 org.jivesoftware.openfire.container.PluginManager - No plugin loader found for 'websocket'.
+2020.12.23 14:55:23 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 14:55:27 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:55:27 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:55:57 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 14:56:01 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:56:01 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:56:29 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x00000003: nio socket, server, /192.168.0.101:4914 => /192.168.0.101:5222)
+org.apache.mina.filter.codec.ProtocolDecoderException: org.jivesoftware.openfire.nio.XMLNotWellFormedException: Character is invalid in:  (Hexdump: 16 03 01 02 00 01 00 01 FC 03 03 EE DC 7F 3F 6E 55 48 57 0F A6 F5 95 9D 75 D6 98 77 C7 DF 0D BF 45 75 9E 52 A4 7E DC C5 1A 72 5B 20 D0 9F 3E 1B EA 71 36 0C 39 42 EB F8 01 40 79 2E 34 04 9A 33 9B F1 69 EB 42 31 0F DC 23 E7 BE DB 00 20 8A 8A 13 01 13 02 13 03 C0 2B C0 2F C0 2C C0 30 CC A9 CC A8 C0 13 C0 14 00 9C 00 9D 00 2F 00 35 01 00 01 93 4A 4A 00 00 00 17 00 00 FF 01 00 01 00 00 0A 00 0A 00 08 CA CA 00 1D 00 17 00 18 00 0B 00 02 01 00 00 23 00 00 00 10 00 0E 00 0C 02 68 32 08 68 74 74 70 2F 31 2E 31 00 05 00 05 01 00 00 00 00 00 0D 00 12 00 10 04 03 08 04 04 01 05 03 08 05 05 01 08 06 06 01 00 12 00 00 00 33 00 2B 00 29 CA CA 00 01 00 00 1D 00 20 11 41 C4 D4 39 A9 91 44 89 0A 48 5F E6 15 22 09 F2 B0 11 71 7B 58 4E 9E A4 F0 B9 53 B8 E6 F9 29 00 2D 00 02 01 01 00 2B 00 0B 0A CA CA 03 04 03 03 03 02 03 01 00 1B 00 03 02 00 02 FA FA 00 01 00 00 15 00 E5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00)
+	at org.apache.mina.filter.codec.ProtocolCodecFilter.messageReceived(ProtocolCodecFilter.java:263) [mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:650) [mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1300(DefaultIoFilterChain.java:49) [mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:1128) [mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.filterchain.IoFilterEvent.fire(IoFilterEvent.java:106) [mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.session.IoEvent.run(IoEvent.java:89) [mina-core-2.1.3.jar:?]
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.runTask(OrderedThreadPoolExecutor.java:766) [mina-core-2.1.3.jar:?]
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.runTasks(OrderedThreadPoolExecutor.java:758) [mina-core-2.1.3.jar:?]
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.run(OrderedThreadPoolExecutor.java:697) [mina-core-2.1.3.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_271]
+Caused by: org.jivesoftware.openfire.nio.XMLNotWellFormedException: Character is invalid in: 
+	at org.jivesoftware.openfire.nio.XMLLightweightParser.read(XMLLightweightParser.java:220) ~[target/:?]
+	at org.jivesoftware.openfire.nio.XMPPDecoder.doDecode(XMPPDecoder.java:38) ~[target/:?]
+	at org.apache.mina.filter.codec.CumulativeProtocolDecoder.decode(CumulativeProtocolDecoder.java:180) ~[mina-core-2.1.3.jar:?]
+	at org.apache.mina.filter.codec.ProtocolCodecFilter.messageReceived(ProtocolCodecFilter.java:254) ~[mina-core-2.1.3.jar:?]
+	... 9 more
+2020.12.23 14:56:29 org.jivesoftware.openfire.nio.ConnectionHandler - Closing connection due to exception in session: (0x00000004: nio socket, server, /192.168.0.101:4915 => /192.168.0.101:5222)
+org.apache.mina.filter.codec.ProtocolDecoderException: org.jivesoftware.openfire.nio.XMLNotWellFormedException: Character is invalid in:  (Hexdump: 16 03 01 02 00 01 00 01 FC 03 03 18 75 4C 50 3A 2C 58 1E 6A 12 BB DD 43 43 76 73 C5 AA 80 B8 6C BB 38 20 7F DC 96 8D FC B4 9D A8 20 B0 00 4A 51 44 B9 1A A1 B1 98 73 A4 71 CD B5 A1 7D CA 79 4F 5A F7 48 E6 6B 7E 75 69 74 FE B5 81 00 22 2A 2A 13 01 13 02 13 03 C0 2B C0 2F C0 2C C0 30 CC A9 CC A8 C0 13 C0 14 00 9C 00 9D 00 2F 00 35 00 0A 01 00 01 91 AA AA 00 00 00 17 00 00 FF 01 00 01 00 00 0A 00 0A 00 08 6A 6A 00 1D 00 17 00 18 00 0B 00 02 01 00 00 23 00 00 00 10 00 0E 00 0C 02 68 32 08 68 74 74 70 2F 31 2E 31 00 05 00 05 01 00 00 00 00 00 0D 00 14 00 12 04 03 08 04 04 01 05 03 08 05 05 01 08 06 06 01 02 01 00 12 00 00 00 33 00 2B 00 29 6A 6A 00 01 00 00 1D 00 20 81 A2 E6 DB 68 83 DF C9 62 65 7A 12 DC 75 4A 39 00 DC 9E 11 81 FE F4 BE 3D 7D 4F F5 55 F7 28 69 00 2D 00 02 01 01 00 2B 00 0B 0A AA AA 03 04 03 03 03 02 03 01 00 1B 00 03 02 00 02 CA CA 00 01 00 00 15 00 E1 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00)
+	at org.apache.mina.filter.codec.ProtocolCodecFilter.messageReceived(ProtocolCodecFilter.java:263) [mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:650) [mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1300(DefaultIoFilterChain.java:49) [mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:1128) [mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.filterchain.IoFilterEvent.fire(IoFilterEvent.java:106) [mina-core-2.1.3.jar:?]
+	at org.apache.mina.core.session.IoEvent.run(IoEvent.java:89) [mina-core-2.1.3.jar:?]
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.runTask(OrderedThreadPoolExecutor.java:766) [mina-core-2.1.3.jar:?]
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.runTasks(OrderedThreadPoolExecutor.java:758) [mina-core-2.1.3.jar:?]
+	at org.apache.mina.filter.executor.OrderedThreadPoolExecutor$Worker.run(OrderedThreadPoolExecutor.java:697) [mina-core-2.1.3.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_271]
+Caused by: org.jivesoftware.openfire.nio.XMLNotWellFormedException: Character is invalid in: 
+	at org.jivesoftware.openfire.nio.XMLLightweightParser.read(XMLLightweightParser.java:220) ~[target/:?]
+	at org.jivesoftware.openfire.nio.XMPPDecoder.doDecode(XMPPDecoder.java:38) ~[target/:?]
+	at org.apache.mina.filter.codec.CumulativeProtocolDecoder.decode(CumulativeProtocolDecoder.java:180) ~[mina-core-2.1.3.jar:?]
+	at org.apache.mina.filter.codec.ProtocolCodecFilter.messageReceived(ProtocolCodecFilter.java:254) ~[mina-core-2.1.3.jar:?]
+	... 9 more
+2020.12.23 14:56:59 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 14:57:03 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:57:03 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 14:58:29 org.jivesoftware.util.cache.CacheFactory - CacheFactory - Unable to find a Plugin that provides clustering support.
+2020.12.23 14:58:29 org.jivesoftware.util.cache.CacheFactory - Clustered cache factory strategy org.jivesoftware.openfire.plugin.util.cache.ClusteredCacheFactory not found
+2020.12.23 15:00:43 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 15:00:47 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 15:00:47 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 15:06:58 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 15:07:02 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 15:07:02 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 15:24:47 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 15:24:51 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 15:24:51 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 15:25:56 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 15:26:00 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 15:26:00 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 15:26:28 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 15:26:32 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 15:26:32 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 15:32:38 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.23 15:32:41 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.23 15:32:41 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.24 08:46:36 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.24 08:46:40 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.24 08:46:40 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.24 08:48:11 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: localhost. Connection: org.jivesoftware.openfire.net.SocketConnection@29f24920 socket: Socket[addr=/127.0.0.1,port=13889,localport=5269] session: null
+2020.12.24 08:48:11 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: localhost. Connection: org.jivesoftware.openfire.net.SocketConnection@230a2250 socket: Socket[addr=/127.0.0.1,port=13890,localport=5269] session: null
+2020.12.24 08:48:11 org.jivesoftware.openfire.server.ServerDialback[Acting as Originating Server: Create Outgoing Session from: 192.168.0.101 to RS at: localhost (port: 5269)] - Unable to create a new outgoing session
+2020.12.24 08:48:11 org.jivesoftware.openfire.session.LocalOutgoingServerSession[Create outgoing session for: 192.168.0.101 to localhost] - Unable to create a new session: Dialback (as a fallback) failed.
+2020.12.24 08:48:11 org.jivesoftware.openfire.session.LocalOutgoingServerSession[Authenticate local domain: '192.168.0.101' to remote domain: 'localhost'] - Unable to authenticate: Fail to create new session.
+2020.12.24 08:48:48 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: localhost. Connection: org.jivesoftware.openfire.net.SocketConnection@5d8856fd socket: Socket[addr=/127.0.0.1,port=13915,localport=5269] session: null
+2020.12.24 08:48:48 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: localhost. Connection: org.jivesoftware.openfire.net.SocketConnection@254e09e6 socket: Socket[addr=/127.0.0.1,port=13916,localport=5269] session: null
+2020.12.24 08:48:48 org.jivesoftware.openfire.server.ServerDialback[Acting as Originating Server: Create Outgoing Session from: 192.168.0.101 to RS at: localhost (port: 5269)] - Unable to create a new outgoing session
+2020.12.24 08:48:48 org.jivesoftware.openfire.session.LocalOutgoingServerSession[Create outgoing session for: 192.168.0.101 to localhost] - Unable to create a new session: Dialback (as a fallback) failed.
+2020.12.24 08:48:48 org.jivesoftware.openfire.session.LocalOutgoingServerSession[Authenticate local domain: '192.168.0.101' to remote domain: 'localhost'] - Unable to authenticate: Fail to create new session.
+2020.12.24 08:49:45 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: localhost. Connection: org.jivesoftware.openfire.net.SocketConnection@1907c69d socket: Socket[addr=/127.0.0.1,port=13947,localport=5269] session: null
+2020.12.24 08:49:45 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: localhost. Connection: org.jivesoftware.openfire.net.SocketConnection@3e4aa2c8 socket: Socket[addr=/127.0.0.1,port=13948,localport=5269] session: null
+2020.12.24 08:49:45 org.jivesoftware.openfire.server.ServerDialback[Acting as Originating Server: Create Outgoing Session from: 192.168.0.101 to RS at: localhost (port: 5269)] - Unable to create a new outgoing session
+2020.12.24 08:49:45 org.jivesoftware.openfire.session.LocalOutgoingServerSession[Create outgoing session for: 192.168.0.101 to localhost] - Unable to create a new session: Dialback (as a fallback) failed.
+2020.12.24 08:49:45 org.jivesoftware.openfire.session.LocalOutgoingServerSession[Authenticate local domain: '192.168.0.101' to remote domain: 'localhost'] - Unable to authenticate: Fail to create new session.
+2020.12.24 08:52:43 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.24 08:52:48 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.24 08:52:48 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.24 08:53:45 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 127.0.0.1. Connection: org.jivesoftware.openfire.net.SocketConnection@6f38e18f socket: Socket[addr=/127.0.0.1,port=14250,localport=5269] session: null
+2020.12.24 08:53:45 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 127.0.0.1. Connection: org.jivesoftware.openfire.net.SocketConnection@65c08aff socket: Socket[addr=/127.0.0.1,port=14251,localport=5269] session: null
+2020.12.24 08:53:45 org.jivesoftware.openfire.server.ServerDialback[Acting as Originating Server: Create Outgoing Session from: 192.168.0.101 to RS at: 127.0.0.1 (port: 5269)] - Unable to create a new outgoing session
+2020.12.24 08:53:45 org.jivesoftware.openfire.session.LocalOutgoingServerSession[Create outgoing session for: 192.168.0.101 to 127.0.0.1] - Unable to create a new session: Dialback (as a fallback) failed.
+2020.12.24 08:53:45 org.jivesoftware.openfire.session.LocalOutgoingServerSession[Authenticate local domain: '192.168.0.101' to remote domain: '127.0.0.1'] - Unable to authenticate: Fail to create new session.
+2020.12.24 08:54:23 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 127.0.0.1. Connection: org.jivesoftware.openfire.net.SocketConnection@8dea12d socket: Socket[addr=/127.0.0.1,port=14270,localport=5269] session: null
+2020.12.24 08:54:23 org.jivesoftware.openfire.net.SocketReader - Closing session due to incorrect hostname in stream header. Host: 127.0.0.1. Connection: org.jivesoftware.openfire.net.SocketConnection@705e7a54 socket: Socket[addr=/127.0.0.1,port=14271,localport=5269] session: null
+2020.12.24 08:54:23 org.jivesoftware.openfire.server.ServerDialback[Acting as Originating Server: Create Outgoing Session from: 192.168.0.101 to RS at: 127.0.0.1 (port: 5269)] - Unable to create a new outgoing session
+2020.12.24 08:54:23 org.jivesoftware.openfire.session.LocalOutgoingServerSession[Create outgoing session for: 192.168.0.101 to 127.0.0.1] - Unable to create a new session: Dialback (as a fallback) failed.
+2020.12.24 08:54:23 org.jivesoftware.openfire.session.LocalOutgoingServerSession[Authenticate local domain: '192.168.0.101' to remote domain: '127.0.0.1'] - Unable to authenticate: Fail to create new session.
+2020.12.24 09:03:44 org.jivesoftware.util.LocaleUtils - Missing resource for key: system_property.xmpp.muc.vcard.enabled in locale en
+2020.12.24 09:03:49 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
+2020.12.24 09:03:49 org.jivesoftware.openfire.spi.LegacyConnectionAcceptor - Configuration allows for up to 16 threads, although implementation is limited to exactly one.
